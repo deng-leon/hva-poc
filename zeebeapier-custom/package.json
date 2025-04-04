@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@camunda8/sdk": "^8.6.33",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "name": "zeebeapier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "William Marcq",
+  "license": "MIT",
+  "type": "module"
+}
